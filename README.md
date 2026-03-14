@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 Fertilizer Recommendation System - Full Stack Application
 
 A complete **AI-powered fertilizer recommendation system** using a Multi-Task Neural Network. This project includes a FastAPI backend and a modern interactive frontend.
@@ -304,3 +305,6 @@ This project is provided as-is for educational and research purposes.
 ---
 
 **Happy Farming! 🌾🚜**
+=======
+# Fertilizer_Recommendation_System
+>>>>>>> b3a7dad11ba35a314122e8add1b7cf83e5f7d79d
